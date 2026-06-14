@@ -1,8 +1,8 @@
 #fix the below python code, then do a pill request. 
 
 greeting ="Hello World"
-print(greeting)
-# this is fixed by RT
+xprint(greeting)
+# this is fixed by RBT
 
 
 #This is used to test pull request after git fork.
